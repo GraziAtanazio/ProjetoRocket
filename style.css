@@ -90,8 +90,11 @@ p {
   left: 0;
   z-index: 1;
   transform: translateY(-50%);
+  animation: slide-back 0.4s forwards;
+}
 
-  animation: slide-back 0.2s;
+.light #switch button {
+  animation: slide-in 0.4s forwards;
 }
 
 #switch span {
