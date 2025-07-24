@@ -93,6 +93,7 @@ p {
   animation: slide-back 0.4s forwards;
 }
 
+/* Animação para deslizar switch */
 .light #switch button {
   animation: slide-in 0.4s forwards;
 }
